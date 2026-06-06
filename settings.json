@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "BotTreo",
     "password": "",
-    "type": "offline"
+    "type": "mojang"
   },
   "server": {
     "ip": "hibno.aternos.me",
